@@ -1,7 +1,7 @@
 #include<iostream>
 #include<iomanip> 
 using namespace std;
-
+//5555255
 int main(){	
 	double loan , rate , pay ;
 	cout << "Enter initial loan: ";
